@@ -1,0 +1,17 @@
+glove100b.txt
+glove.2024.wikigiga.200d.zip
+# Ignorar carpetas de entrenamiento (pesan mucho)
+t5_detox_results/
+t5_detox_output_v2/
+results/
+
+# Ignorar archivos de modelo sueltos
+*.bin
+*.pt
+*.safetensors
+
+# Ignorar temporales de Python
+__pycache__/
+*.ipynb_checkpoints/
+
+*.model
