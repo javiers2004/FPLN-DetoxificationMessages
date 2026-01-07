@@ -1,0 +1,991 @@
+Sentence_tokens,Negative Connotations_tokens
+"['mandated', 'right', 'fucking', 'would', 'good']",['fucking']
+"['t', 'care', 'ignorant', 't', 'pretending', 'know', 'shit']","['ignorant', 'pretending', 'shit']"
+"['6', 'fucking', 'insane']","['fucking', 'insane']"
+"['hard', 'get', 'job', 'stupid']",['stupid']
+"['dorks', 'millionares', 'pay', 'way']",['dorks']
+"['give', 'name', 'store', 'fuck', 'liar']","['fuck', 'liar']"
+"['ah', 'another', 'supporter', 'hate', 'people', 'color', 'jewish', 'faith']",['hate']
+"['got', 'shits', 'gon', 'na', 'go', 'nobody', 'going', 'ready']",['shits']
+"['garbage', 'see', 'tv', 'garbage']",['garbage']
+"['said', 'would', 'woman', 'vote', 'cretin']",['cretin']
+"['trump', 'clowns', 'seriously', 'messed']","['clowns', 'messed']"
+"['allowing', 'whole', 'colonies', 'rubbish', 'arise', 'punishable', 'firing', 'officials']","['rubbish', 'punishable', 'firing']"
+"['almost', 'fucked', 'cia', 'funding', 'arming', 'bin', 'laden']",['fucked']
+"['almost', 'feels', 'like', 'need', 'vigilantes', 'show', 'rubbish', 'people', 'limits']","['vigilantes', 'rubbish']"
+"['also', 'us', 't', 'really', 'give', 'shit', 'international', 'laws']",['shit']
+"['also', 'known', 'fuck', 'middle', 'east', 'part', 'number']",['fuck']
+"['americans', 'give', 'shit', 'britons', 'think']",['shit']
+"['amy', 'ignorance', 'showing']",['ignorance']
+"['nobody', 'gave', 'shit']",['shit']
+"['start', 'sending', 'cunts', 'home']",['cunts']
+"['telling', 'nato', 'fuck']",['fuck']
+"['ignorant', 'realize']",['ignorant']
+"['really', 'dont', 'give', 'crap', 'think', 'sanctimonious', 'moralizing']","['crap', 'sanctimonious']"
+"['fuck', 'manager', 'tell', 'cop']",['fuck']
+"['anddddd', 'applied', 'social', 'security', 'number', 'probably', 'stolen', 'well', 'fuck']","['stolen', 'fuck']"
+"['fool', 'borrow', 'spend']",['fool']
+"['us', 'half', 'shit', 'would', 'locked', 'fuck', 'already']","['shit', 'locked', 'fuck']"
+"['anyone', 'better', 'dummy']",['dummy']
+"['anyone', 'votes', 'communism', 'really', 'really', 'dumb', 'touch', 'reality']","['dumb', 'touch', 'reality']"
+"['apologies', 'said', 'fuck', 'multiple', 'times', 'called', 'asshole', 'dumb', 'names']","['fuck', 'asshole', 'dumb']"
+"['liars', 'clueless']","['liars', 'clueless']"
+"['would', 'say', 'pathetic', 'loser']","['pathetic', 'loser']"
+"['ive', 'said', 'thousand', 'goddamn', 'times', 'translatitens', 'voyage', 'uses', 'spitzbergen', 'fucking', 'z']","['goddamn', 'fucking']"
+"['ive', 'said', 'thousand', 'goddamn', 'times', 'thetranslatitens', 'voyage', 'uses', 'spitzbergen', 'fucking', 'z']","['goddamn', 'fucking']"
+"['someone', 'la', 'oilfield', 'worker', 'still', 'say', 'guy', 'piece', 'shit']","['piece', 'shit']"
+"['time', 'fucking', 'article']",['fucking']
+"['attacking', 'calling', 'names', 'making', 'garbage']","['attacking', 'names', 'garbage']"
+['hypocrite'],['hypocrite']
+"['making', 'nazi', 'shit']","['nazi', 'shit']"
+"['blame', 'parents', 'bitch', 'moaned', 'child', 'protection', 'bullshit', 'schools', 'days']","['blame', 'bitch', 'moaned', 'bullshit']"
+"['nobody', 'knows', 'fuck', 'kennedy', 'strategically', 'sitting', 'tight']",['fuck']
+"['california', 'last', 'primary', 'election', 'fucking', 'farce', 'doofus']","['fucking', 'farce', 'doofus']"
+"['calm', 'fuck', 'cnn']",['fuck']
+"['someone', 'explain', 'shit', 'please']",['shit']
+"['china', 'russia', 'use', 'big', 'stick', 'smack', 'trump', 'around', 'ships', 'anything', 'foolish']","['big', 'stick', 'smack', 'foolish']"
+"['come', 'adn', 'really', 'hard', 'publish', 'dreck']","['hard', 'dreck']"
+"['corrupt', 'kirky', 'boy', 'needs', 'get', 'fired']","['corrupt', 'fired']"
+"['cretins', 'like', 'rarely', 'care', 'facts']",['cretins']
+"['daesh', 'isis', 'actually', 'mean', 'thing', 'dont', 'give', 'fuck']",['fuck']
+"['delta', 't', 'always', 'sucked', 'one', 'suck', 'ass', 'move']","['sucked', 'suck-ass']"
+"['destined', 'repeat', 'shit', 'die']",['shit']
+"['dg', 'youre', 'correct', 'people', 'donkey', 'show', 'moments', 'real', 'stupid', 'things']","['donkey', 'show', 'stupid']"
+"['come', 'poverty', 'bust', 'ass', 'buy', 'land', 'doubtful']","['poverty', 'bust', 'ass', 'doubtful']"
+"['think', 'going', 'sit', 'back', 'let', 'imbecile', 'spew', 'hatred', 'towards']","['imbecile', 'hatred']"
+"['digit', 'years', 'later', 'still', 'blame', 'bush', 'fuck', 'ups']","['blame', 'fuck', 'ups']"
+"['dmvs', 'un', 'fucking', 'believable']",['fucking']
+"['people', 'actually', 'believe', 'shit']",['shit']
+"['ever', 'get', 'tired', 'asking', 'stupid', 'questions']",['stupid']
+"['shit', 'happen', 'every', 'year']",['shit']
+"['shit', 'happen', 'time']",['shit']
+"['t', 'touch', 'shit', 'thats', 'really', 'close']",['shit']
+"['nitpicky', 'cunt', 'bad']","['nitpicky', 'cunt']"
+"['dont', 'ever', 'change', 'one', 'edits', 'come', 'house', 'cut']","['cut', 'threaten']"
+"['dopey', 'comment', 'week', 'congrats']",['dopey']
+"['economies', 'iran', 'venezuela', 'iraq', 'etc', 'still', 'shit']",['shit']
+"['eh', 'seems', 'reasonable', 'since', 'crazy', 'fuck', 'neighbor', 'keeps', 'launching', 'missiles', 'sea']","['crazy', 'fuck', 'missiles']"
+"['either', 'one', 'heck', 'defence', 'team', 'prosecutor', 'really', 'fucked']",['fucked']
+"['either', 'way', 'fuck', 'forget', 'child', 'backseat']",['fuck']
+"['either', 'way', 'sound', 'foolish', 'ill', 'informed']","['foolish', 'ill', 'informed']"
+"['even', 'bush', 'knows', 'fucked']",['fucked']
+"['everyone', 'got', 'single', 'issue', 'represents', 'burr', 'ass']","['burr', 'ass']"
+"['except', 'ya', 'know', 'stock', 'market', 'crash', 'literally', 'fucking', 'happened']","['crash', 'fucking']"
+"['except', 'bankers', 'lobbyists', 'crappy', 'congressmen', 'women', 'nsa', 'big', 'corp', 'expensive', 'fuck', 'healthcare']","['crappy', 'expensive', 'fuck']"
+"['fdr', 'shit', 'constitution', 'still', 'regarded', 'good', 'president']",['shit']
+"['digit', 'gives', 'shit']",['shit']
+"['without', 'health', 'insurance', 'fuck', 'states', 't', 'expand', 'medicaid']",['fuck']
+"['fox', 'news', 'going', 'shit', 'hear']",['shit']
+"['personal', 'experience', 'waspy', 'white', 'kids', 'get', 'away', 'shit', 'minority', 'could', 'least', 'utah']","['waspy', 'shit']"
+"['fuck', 'change', 'whole', 'outlook']",['fuck']
+"['fuck', 'click', 'first', 'name', 'go', 'home']",['fuck']
+"['fuck', 'popeyes', 'first', 'place']",['fuck']
+"['fuck', 'wont', 'tell']",['fuck']
+"['fuckin', 'sonofabitch']","['fuckin', 'sonofabitch']"
+"['fucking', 'isis', 'go', 'put', 'little', 'blemish', 'archer']","['fucking', 'isis', 'blemish']"
+"['funny', 'runs', 'screaming', 'like', 'bitch', 'arms', 'society', 'wants', 'tear']","['bitch', 'tear']"
+"['gazprom', 'fucked', 'guarantee']",['fucked']
+"['get', 'fucked', 'kiddo', 't', 'know', 'shit']","['fucked', 'shit']"
+"['get', 'lost', 'false', 'abusive', 'lawyer']","['get', 'lost', 'false', 'abusive']"
+"['get', 'lost', 'motherfucker', 'piece', 'shit']","['get', 'lost', 'motherfucker', 'piece', 'shit']"
+"['get', 'brewbaker', 'id', 'get', 'ass', 'mars']",['ass']
+"['get', 'thef', 'ass', 'something']",['ass']
+"['getting', 'ass', 'kicked', 'gre', 'practice', 'tests', 'made', 'sure', 'never', 'make', 'mistake']","['ass', 'kicked']"
+"['getting', 'stronger', 'every', 'month', 'yeah', 'fucking', 'wish']",['fucking']
+"['gm', 'ceo', 'private', 'eyes', 'confirm', 'gm', 'built', 'crappy', 'cars']",['crappy']
+"['go', 'ahead', 'ban', 'dont', 'give', 'shit']",['shit']
+"['go', 'take', 'hike', 'scum']",['scum']
+"['god', 'shit', 'storm', 'wins', 'amazing', 't', 'wait']","['shit', 'storm']"
+"['good', 'tired', 'seeing', 'people', 'abusing', 'shit']","['tired', 'abusing', 'shit']"
+"['gosh', 'discrimination', 'bitch']","['discrimination', 'bitch']"
+"['gt', 'never', 'underestimate', 'crazy', 'cunt', 'army']","['crazy', 'cunt']"
+"['gt', 'well', 'today', 'fucking', 'fracking', 'learned', 'something']",['fucking']
+"['haha', 'fuck', 'need', 'wake']",['fuck']
+"['ever', 'r', 'trees', 'seen', 'shit', 'people', 'say', 'weed']",['shit']
+"['ever', 'heard', 'revenge', 'fucking']","['revenge', 'fucking']"
+"['s', 'trying', 'save', 'ass']",['ass']
+"['depends', 'ignorant', 'rural', 'voters', 'keep', 'office', 'rips', 'everyone', 'else', 'around']","['ignorant', 'rips']"
+"['say', 'wanted', 'two', 'wars', 'make', 'dick', 'cheney', 'pals', 'even', 'richer']","['wars', 'richer']"
+"['almost', 'year', 'half', 'fuck', 'bad', 'even', 'morons', 'help', 'noticing']","['fuck', 'morons']"
+"['bandwagon', 'barcelona', 'fan', 'needs', 'put', 'place', 'fuck', 'fagget']","['bandwagon', 'put', 'place', 'fuck', 'fagget']"
+"['fucking', 'parasite']","['fucking', 'parasite']"
+['fuck'],['fuck']
+"['looks', 'smart', 'enough', 'survive', 'shit', 'storm']","['shit', 'storm']"
+"['posts', 'stupid', 'things']",['stupid']
+"['arrogant', 'plus', 'treats', 'lot', 'fans', 'like', 'shit']","['arrogant', 'shit']"
+"['says', 'dumb', 'shit', 'attributes', 'entire', 'gop']","['dumb', 'shit']"
+"['hes', 'stupid', 'lacks', 'selfcontrol']","['stupid', 'lacks', 'selfcontrol']"
+"['hi', 'name', 'tbloeme', 'im', 'sad', 'lonely', 'little', 'page', 'faggot', 'nazi']","['sad', 'lonely', 'faggot', 'nazi']"
+"['brain', 'stopped', 'functioning', 'mouth', 'keeps', 'yapping']","['stopped', 'functioning', 'yapping']"
+"['secretary', 'state', 'thinks', 'hes', 'moron']",['moron']
+"['holy', 'fuck', 'hell', 'thinks', 'like']","['fuck', 'hell']"
+"['holy', 'fuck', 'awesome']",['fuck']
+"['holy', 'fucking', 'shit', 'read', 'ebola', 'confirmed', 'mail']","['fucking', 'shit']"
+"['holy', 'shit', 'cop', 'got', 'fired']",['shit']
+"['holy', 'shit', 'somebody', 'remembers', 'actually', 'happened']",['shit']
+"['holy', 'shit', 'second', 'explosion', 'violent']","['shit', 'violent']"
+"['holy', 'shit', 'like', 'republicans', 'pcp']","['shit', 'pcp']"
+"['honestly', 'fuck', 'cares', 'stupid', 'words', 'recite']","['fuck', 'stupid']"
+"['hopefully', 'enough', 'incentive', 'fix', 'fucking', 'roads']",['fucking']
+"['hopefully', 'turks', 'dumb', 'enough', 'hand']",['dumb']
+"['dare', 'compare', 'two', 'retards', 'harry', 'lloyd']",['retards']
+"['fuck', 'anyone', 'even', 'consider', 'producer', 'bad', 'guy', 'scenario']","['fuck', 'bad', 'guy']"
+"['fuck', 'manage']",['fuck']
+"['fuck', 'support', 'economy', 'barely', 'support']",['fuck']
+"['fuck', 'think', 'people', 'afford', 'houses', 'cars']",['fuck']
+"['however', 'talk', 'pages', 'exist', 'fucking', 'reason']",['fucking']
+"['m', 'vacation', 'san', 'juans', 'fuck', 'winds', 'crazy']",['fuck']
+"['accidentally', 'read', 'titling', 'laser', 'machete', 'almost', 'shit', 'pants']",['shit']
+"['going', 'lose', 'shit', 'happens']","['lose', 'shit']"
+"['blame', 'stupid', 'voters', 'state', 'electing', 'left', 'wing', 'wackos']","['blame', 'stupid', 'wackos']"
+"['cant', 'wait', 'south', 'park', 'makes', 'episode', 'bitch', 'cult']","['bitch', 'cult']"
+"['vandalize', 'anything', 'dick']",['dick']
+"['say', 'shit']",['shit']
+"['t', 'give', 'fuck']",['fuck']
+"['t', 'think', 's', 'fucked', 'since', 's', 'like', 'accept']",['fucked']
+"['think', 'el', 'chapo', 'became', 'piece', 'shit', 'people', 'kept', 'calling', 'one']","['piece', 'shit']"
+"['think', 'ramsay', 'gives', 'shit']",['shit']
+"['dont', 'give', 'flying', 'fuck', 'sides']",['fuck']
+"['gotto', 'put', 'mycents', 'saying', 'stupid', 'someone']",['stupid']
+"['respect', 'female', 'creature']","['respect', 'female', 'creature']"
+"['toilet', 'paper', 'wipe', 'ass', 'shortage', 'food']",['ass']
+"['love', 'one', 'shit', 'one', 'lady', 'wore', 'kim', 'davis']",['shit']
+"['done', 'shit']",['shit']
+"['glad', 'guys', 'protect', 'shit', 'orphan', 'black', 'strange', 'empire', 'great']",['shit']
+"['mean', 'much', 'suck']",['suck']
+"['mean', 's', 'awesome', 'pope', 'cool', 'like', 'awesome', 'stuff', 'fucking', 'seriously']",['fucking']
+"['mean', 's', 'killed', 'shit', 'ton', 'people', 're', 'gon', 'na', 'give', 'established', 'base', 'operations']","['killed', 'shit']"
+"['posted', 'khodorkovsky', 'stupid', 'cunt']","['stupid', 'cunt']"
+"['really', 'fucking', 'hope']",['fucking']
+"['sell', 'quite', 'bit', 'shit', 'paypal', 'actually', 'helped', 'pay', 'bills']",['shit']
+"['still', 'think', 'stupid', 'understand']",['stupid']
+"['take', 'teach', 'teenager', 'call', 'people', 'stupid', 'unable', 'come', 'anything', 'else']",['stupid']
+"['think', 'plastic', 'beautiful', 'old', 'bridge', 'look', 'shit', 'regardless']",['shit']
+"['think', 'noble', 'fuck']",['fuck']
+"['told', 'real', 'dick']",['dick']
+"['wish', 'could', 'jail', 'politicians', 'shit', 'like']","['jail', 'shit']"
+"['wonder', 'fear', 'turns', 'people', 'aggressive', 'cowards']","['fear', 'aggressive', 'cowards']"
+"['hes', 'found', 'acted', 'cold', 'blood', 'feds', 'going', 'persecute', 'shit']","['cold', 'blood', 'persecute', 'shit']"
+"['uk', 'anything', 'talk', 'shit', 'supply', 'weapons', 'surprised']","['talk', 'shit']"
+"['believe', 'lies', 'become', 'stupid', 'public']","['lies', 'stupid']"
+"['cant', 'dazzle', 'brilliance', 'baffle', 'bullshit']",['bullshit']
+"['continue', 'asshole', 'revert', 'edits', 'without', 'cause', 'reported', 'wikipedia']",['asshole']
+"['use', 'guess', 'would', 'seem', 'like', 'stupid', 'government', 'shit']","['stupid', 'shit']"
+"['think', 'making', 'clown']",['clown']
+"['implying', 'americans', 'gon', 'na', 'vacation', 'shit', 'hole']","['shit', 'hole']"
+"['words', 'actually', 'care', 'civil', 'liberties', 'justice', 'republicans', 'want', 'fuck']",['fuck']
+"['option', 'upload', 'vid', 'youtube', 'shit', 'quality', 'uploads', 'faster']",['shit']
+"['big', 'deal', 'school', 'give', 'shit', 'bullied']",['shit']
+"['goddamned', 'time']",['goddamned']
+"['thing', 'keeping', 'species', 'alive', 'right', 'though', 'hunting', 'fucked', 'many', 'species']","['fucked', 'hunting']"
+"['would', 'fucked', 'happened']",['fucked']
+"['good', 'youre', 'adding', 'stuff', 'completely', 'ridiculous']",['ridiculous']
+"['time', 'void', 'stupid', 'decision', 'opinion', 'property', 'belongs', 'alaskans', 'select', 'sorry']",['stupid']
+"['jesus', 'christ', 'fucking', 'crock', 'shit']","['fucking', 'crock', 'shit']"
+"['judging', 'shit', 'seen', 'number', 'years', 'number', 'spent', 'george', 'w']",['shit']
+"['cut', 'chase', 'try', 'contact', 'provider', 'asshole']",['asshole']
+"['state', 'fucking', 'opinion']",['fucking']
+"['last', 'warning', 'fucking', 'tosser', 'takes', 'minutes', 'resolve', 'page', 'cunts', 'like', 'fuck', 'wikipedia']","['fucking', 'tosser', 'cunts', 'fuck']"
+"['last', 'winter', 'fucking', 'brutal']",['fucking']
+"['liar', 'liar', 'pants', 'fire', 'justin']",['liar']
+"['like', 'gives', 'shit', 'trump', 'view', 'haha']",['shit']
+"['lol', 'sunshine', 'critically', 'acclaimed', 'moron', 'lol']",['moron']
+"['lol', 'yeah', 'like', 'would', 'ever', 'fucking', 'happen']",['fucking']
+"['lol', 'yes', 'spending', 'due', 'idiotic', 'wars', 'hero', 'g', 'w', 'bush', 'waged']","['idiotic', 'hero']"
+"['lol', 'remember', 'glenn', 'beck', 'fuck', 'ton', 'americans', 'using', 'tragedy', 'attention']","['fuck', 'tragedy', 'attention']"
+"['look', 'shit']",['shit']
+"['looks', 'like', 'teeny', 'fucking', 'bit', 'mark', 'friend']",['fucking']
+"['make', 'fucking', 'guess', 'somebody', 'misspell', 'area', 'aera']",['fucking']
+"['man', 'insecure', 'dick']","['insecure', 'dick']"
+"['maybe', 'go', 'peacefully', 'kill', 'thousands', 'later', 'righteous', 'vengeance', 'shit', 'gets', 'settled', 'court']","['kill', 'thousands', 'righteous', 'vengeance', 'shit']"
+"['maybe', 'always', 'relevant', 'sure', 'fun', 'fuckin', 'dipshit']","['fuckin', 'dipshit']"
+"['monarchists', 'incredibly', 'arrogant', 'selfish']","['arrogant', 'selfish']"
+"['likely', 'gave', 'couple', 'pats', 'butt', 'shes', 'dramatizing', 'whole', 'thing']",['dramatizing']
+"['munozs', 'letter', 'implicates', 'whole', 'board', 'directors', 'feckless', 'goofs', 'tolerating', 'selfregarding', 'moron', 'lead', 'employee']","['feckless', 'goofs', 'selfregarding', 'moron']"
+"['thoughts', 'new', 'guy', 'might', 'even', 'bigger', 'dirt', 'bag']","['dirt', 'bag']"
+"['never', 'heard', 'poorly', 'written', 'crock', 'pure', 'bullshit']","['poorly', 'bullshit']"
+"['racism', 'lot', 'older', 'fucking', 'newspaper']","['racism', 'fucking']"
+"['almost', 'nobody', 'saying', 'except', 'fucking', 'idiots', 'video']","['fucking', 'idiots']"
+"['fucking', 'way', 'number', 'bricks', 'fits', 'car', 'bs']","['fucking', 'bs']"
+"['didnt', 'year', 'move', 'ignorant']",['ignorant']
+"['one', 'investigated', 'treason', 'ignorant', 'brain', 'washed', 'fool']","['ignorant', 'brain', 'washed', 'fool']"
+"['shit', 'already', 'done']",['shit']
+"['doofy', 'fuck', 'bolt', 'action']","['doofy', 'fuck']"
+"['nobody', 'politics', 'especially', 'democrats', 'give', 'shit', 'citizens', 'let', 'alone', 'military']",['shit']
+"['none', 'would', 'ever', 'happened', 'werent', 'black']","['none', 'werent']"
+"['noones', 'asking', 'invade', 'shit']","['invade', 'shit']"
+"['fucking', 'around', 'foreign', 'matters', 'anything']",['fucking']
+"['hard', 'seeing', 'prime', 'minister', 'shit', 'head']","['shit', 'head']"
+"['trying', 'dick', 'joking']",['dick']
+"['nothing', 'missing', 'footage', 'sure', 'going', 'make', 'whatever', 'happened', 'unaccounted', 'time', 'look', 'shady', 'fuck']","['shady', 'fuck']"
+"['congress', 'congress', 'shit']",['shit']
+"['quit', 'fucking', 'education', 'texas', 'rick']",['fucking']
+"['shut', 'fix']",['shut']
+"['number', 'solve', 'alot', 'fucking', 'problems', 'comes']",['fucking']
+"['oh', 'hearing', 'shit', 'like']",['shit']
+"['oh', 'shit', 'north', 'korea', 'actually', 'funding', 'isis']",['shit']
+"['oh', 'shit', 'blew', 'minds']",['shit']
+"['one', 'dead', 'totally', 'fucked']",['fucked']
+"['fucking', 'death', 'wish']","['fucking', 'death', 'wish']"
+"['dumbest', 'people', 'voted']",['dumbest']
+"['pulling', 'ass']","['pulling', 'ass']"
+"['org', 'read', 'fucking', 'book', 'fuck', 'sake']","['fucking', 'fuck']"
+"['org', 'wikipedia', 'articles', 'sorts', 'random', 'shit', 'like']",['shit']
+"['org', 'yeah', 'muslims', 'western', 'world', 'love', 'decry', 'shit']","['decry', 'shit']"
+"['pretty', 'fucked']",['fucked']
+"['pathetic', 'money', 'alaska', 'collected', 'oil', 'taxes', 'representatives', 'want', 'tax']",['pathetic']
+"['people', 'idiots', 'wasting', 'emergency', 'call', 'time', 'crap', 'like']","['idiots', 'crap']"
+"['people', 'saying', 'things', 'like', 'people', 'monsters', 'people', 'get', 'away', 'shit']","['monsters', 'shit']"
+"['perhaps', 'iran', 'would', 'nicer', 'know', 'treat', 'like', 'shit', 'past', 'number', 'years']","['treat', 'like', 'shit']"
+"['planet', 'earth', 'fucking', 'crazy']",['fucking']
+"['please', 'stay', 'hell', 'erase', 'brain', 'like', 'chalkboard', 'erasure', 'dont', 'come', 'back']","['hell', 'erase', 'dont', 'come', 'back']"
+"['price', 'wise', 's', 'fucking', 'awful']","['fucking', 'awful']"
+"['probably', 'shit', 'tons', 'terrible', 'things']","['shit', 'terrible']"
+"['probably', 'actuated', 'nothing', 'worse', 'stupidity']",['stupidity']
+"['put', 'asses', 'angola']",['asses']
+"['quit', 'trying', 'pretend', 'us', 'anything', 'like', 'backwards', 'shit', 'hole']","['backwards', 'shit', 'hole']"
+"['quite', 'saints', 'canonized', 'opposed', 'idiot', 'hierarch', 'even', 'unto', 'killed', 'like', 'st']",['idiot']
+"['read', 'fucking', 'link']",['fucking']
+"['stupid', 'wall', 'dumb', 'solar', 'panel', 'idea', 'countless', 'idiotic', 'things', 'hes', 'done']","['stupid', 'dumb', 'idiotic']"
+"['crap', 'going', 'pnw']",['crap']
+"['seriously', 'first', 'world', 'countries', 'accept', 'third', 'world', 'immigrants', 'turned', 'countries', 'shit']",['shit']
+"['massive', 'porn', 'star', 'whos', 'vagina', 'arse', 'split', 'create', 'one', 'big', 'gaping', 'whole']","['massive', 'porn', 'star', 'vagina', 'arse', 'split', 'gaping']"
+"['shit', 'china', 'get', 'want']",['shit']
+"['shit', 'love', 'number', 'pm', 'sunset']",['shit']
+"['shit', 'might']",['shit']
+"['shit', 'boris', 'supposed', 'kiev', 'london']",['shit']
+"['shit', 'losing', 'ability', 'compete', 'globally']",['shit']
+"['silicon', 'valley', 'resident', 'fucked']",['fucked']
+"['silly', 'making', 'america', 'safe', 'reevaluation']",['silly']
+"['smug', 'violent', 'thug', 'appropriate']","['smug', 'violent', 'thug']"
+"['cctv', 'shows', 'crimea', 'parliament', 'explosion', 'shitty', 'picture', 'fuck', 'knows', 'bit', 'smoke']","['shitty', 'fuck']"
+"['stop', 'pointing', 'hypocritical', 'fingers']",['hypocritical']
+"['vw', 'drops', 'almost', 'number', 'value', 'shit', 'gm', 'still', 'exists', 'killing', 'hundreds', 'people']","['shit', 'killing']"
+"['fire', 'balconies', 'dropped', 'flaming', 'shit', 'onto', 'others']","['flaming', 'shit']"
+"['poor', 'guy', 'robs', 'liquor', 'store', '400', 'goes', 'prison', 'get', 'raped', 'ass']","['poor', 'robs', 'prison', 'raped', 'ass']"
+"['someone', 'says', 'say', 'fuck', 'need', 'vets', 'free', 'housing']",['fuck']
+"['spoiler', 'russia', 'give', 'fuck', 'canada', 'thinks']",['fuck']
+"['spouts', 'nonsense', 'things', 'absolutely', 'understand']","['spouts', 'nonsense']"
+"['still', 'seems', 'tame', 'compared', 'r', 'hurtinganimals', 'go', 'even', 'thumbnails', 'fucked']","['hurting', 'fucked']"
+"['still', 'standing', 'lying', 'crazy', 'leader', 'loves', 'nobody', 'else']","['lying', 'crazy']"
+"['straight', 'people', 'get', 'married', 'fuck', 'kids', 'time']",['fuck']
+"['good', 'fucking', 'band', 'll', 'forever', 'tied', 'terrorism', 'simply', 'name']","['fucking', 'terrorism']"
+"['sucked', 'like', 'nothings', 'ever', 'sucked']",['sucked']
+"['take', 'inane', 'useless', 'hypocrisy', 'elsewhere', 'gessler']","['inane', 'useless', 'hypocrisy']"
+"['take', 'advice', 'go', 'fuck', 'one', 'subreddits']",['fuck']
+"['taking', 'stand', 'either', 'party', 'equally', 'retarded']",['retarded']
+"['tha', 'last', 'fkn', 'time', 'bitchez']","['fkn', 'bitchez']"
+"['thank', 'god', 'magical', 'fuck', 'frog']",['fuck']
+"['almost', 'never', 'happens', 'excepts', 'rarely', 'shit', 'hole', 'countries']","['shit', 'hole']"
+"['shitty', 'ass', 'service']",['shitty']
+"['crap', 'got', 'stop']",['crap']
+"['lot', 'work', 'something', 'take', 'fucking', 'work']",['fucking']
+"['type', 'shit', 'grand', 'juries', 'supposed', 'avoid']",['shit']
+"['say', 'till', 'ass', 'cooking', 'radiation']","['ass', 'cooking', 'radiation']"
+"['shit', 'nasty', 'lungs']","['shit', 'nasty']"
+"['shit', 'way', 'stronger', 'heroine', 'shot']","['shit', 'shot']"
+"['sounds', 'democratic', 'fuck']",['fuck']
+"['stupid', 'truly', 'reflect', 'views', 'people']",['stupid']
+"['thats', 'great', 'fucking', 'point']",['fucking']
+"['claim', 'rely', 'columbia', 'river', 'usa', 'dams', 'capacity', 'foolish']",['foolish']
+"['fact', 'started', 'number', 'number', 'fucking', 'insane']","['fucking', 'insane']"
+"['fuck', 'reading', 'early']",['fuck']
+"['image', 'elephant', 'crying', 'whimpering', 'shedding', 'tears', 'fucking', 'heartbreaking']",['fucking']
+"['important', 'things', 'fuck', 'time', 'build', 'chairs']",['fuck']
+"['judge', 'basically', 'right', 'fuck', 'pitchforks']",['fuck']
+"['moment', 'hauled', 'ass', 'would', 'played']","['hauled', 'ass']"
+"['respect', 'access', 'bomb', 'codesand', 'fool']",['fool']
+"['original', 'surface', 'shit', 'new', 'pro', 'model', 'quality', 'enterprise', 'tablet']",['shit']
+"['pay', 'shit', 'hours', 'long']",['shit']
+"['people', 'still', 'driving', 'around', 'cars', 'built', 'fucking', 'number', 's']",['fucking']
+"['people', 'drafted', 'probably', 'privately', 'fucked']",['fucked']
+"['person', 'piece', 'shit', 'begin']","['piece', 'shit']"
+"['rewritten', 'rules', 'stupidly', 'insane', 'support', 'follows', 'suit']","['stupidly', 'insane']"
+"['shit', 'san', 'bernardino', 'office', 'dispute', 'turned', 'really', 'ugly']","['shit', 'ugly']"
+"['stupid', 'pco', 'thinks', 'win', 'denigrating', 'wynee', 'offering', 'positive', 'viable', 'alternative']","['stupid', 'denigrating']"
+"['shit', 'try', 'educate', 'people']",['shit']
+"['shit', 'cheap', 'awful', 'quality', 'better', 'getting', 'expensive', 'item']","['shit', 'awful']"
+"['jerks', 'always', 'around']",['jerks']
+"['re', 'living', 'streaming', 'bbc', 'fucks', 'sake']",['fucks']
+"['get', 'attention', 'exactly', 'fuck', 'wits', 'giving']","['fuck', 'wits']"
+"['involved', 'many', 'fucked', 'things', 'since', 'creation']",['fucked']
+"['need', 'stop', 'tratening', 'people', 'like', 'morons']",['morons']
+"['tinfoil', 'wearing', 'publication', 'owned', 'fucking', 'cult', 'led', 'known', 'tax', 'evader']","['tinfoil', 'wearing', 'fucking', 'cult', 'tax', 'evader']"
+['fucked'],['fucked']
+"['really', 'fit', 'since', 'fucking', 'immature', 'assholes']","['fucking', 'immature', 'assholes']"
+"['end', 'hell']",['hell']
+"['find', 'someone', 'retarded', 'become', 'glorious', 'leader']",['retarded']
+"['guy', 'total', 'sellout', 'brains', 'business', 'lacks', 'ability', 'forward', 'thinking']","['sellout', 'brains', 'lacks', 'ability', 'forward', 'thinking']"
+"['dumbest', 'editorial', 'time']",['dumbest']
+"['joke', 'fucking', 'retards']","['fucking', 'retards']"
+"['nothing', 'short', 'hateful', 'whine', 'sore', 'loser', 'didnt', 'get', 'way']","['hateful', 'whine', 'sore', 'loser']"
+"['possibly', 'ignorant', 'oversimplified', 'thing', 'ever', 'read']","['ignorant', 'oversimplified']"
+"['scaring', 'shit']",['shit']
+"['twilight', 'zone', 'shit']",['shit']
+"['exact', 'reason', 'people', 'think', 'environmentalists', 'crazy']",['crazy']
+"['exact', 'reason', 'need', 'national', 'death', 'penalty', 'sentence', 'short', 'rope']","['death', 'penalty', 'short', 'rope']"
+"['happens', 'gather', 'bunch', 'illiterate', 'ignorant', 'fucks', 'brainwash', 'bs', 'propaganda']","['illiterate', 'ignorant', 'fucks', 'brainwash', 'bs', 'propaganda']"
+"['country', 'fucked']",['fucked']
+"['agreeing', 'blowing', 'shit']","['blowing', 'shit']"
+"['junk', 'talk', 'tiresome']","['junk', 'tiresome']"
+"['populist', 'crap', 'psych', 'majors', 'manipulating']","['crap', 'manipulating']"
+"['shit', 'happening', 'generations']",['shit']
+"['shit', 'overwhelming', 'think']","['shit', 'overwhelming']"
+"['sick', 'fuck', 'sociopath', 'want', 'face', 'consequences', 'actions']","['sick', 'fuck', 'sociopath']"
+"['whole', 'place', 'fucking', 'corrupt']","['fucking', 'corrupt']"
+"['truly', 'repugnant', 'plenty', 'sides', 'idiotdriven', 'social', 'networks']","['repugnant', 'idiotdriven']"
+"['time', 'cut', 'credits', 'also', 'cut', 'crap']",['crap']
+"['suggest', 'otherwise', 'stupidly', 'inflammatory']","['stupidly', 'inflammatory']"
+"['treats', 'murder', 'victims', 'like', 'garbage', 'living', 'life', 'pretending', 'normal']","['murder', 'victims', 'garbage']"
+"['use', 'name', 'comment', 'public', 'forced', 'call', 'coward']","['forced', 'coward']"
+"['useful', 'idiots', 'course', 'russians', 'still', 'thats', 'regards']",['idiots']
+"['find', 'use', 'damn', 'lock', 'box', 'sure', 'shit', 'put', 'money']","['damn', 'shit']"
+"['rely', 'government', 'protect', 'us', 'military', 'yet', 'conservatives', 't', 'bitching']",['bitching']
+"['answer', 'ads', 'sabotage', 'fuck', 'equipment']","['sabotage', 'fuck']"
+"['well', 'fucking', 'shit', 'believe', 'people', 'starting', 'realise']","['fucking', 'shit']"
+"['well', 'fucked', 'youtube', 'hard']",['fucked']
+"['weve', 'become', 'accepting', 'nonsense', 'fosters', 'hate']","['nonsense', 'hate']"
+"['s', 'people', 'coming', 'saying', 'shit']",['shit']
+"['arse', 'hole']","['arse', 'hole']"
+"['kind', 'really', 'really', 'stupid', 'plan']",['stupid']
+"['kind', 'shit', 'put', 'phone', 'first', 'link']",['shit']
+"['kind', 'shit', 'post']",['shit']
+"['fucking', 'point', 'wearing']",['fucking']
+"['actual', 'fucking', 'hell', 'matter']","['fucking', 'hell']"
+"['fuck', 'free', 'images', 'like', 'one', 'lazy', 'shit']","['fuck', 'lazy', 'shit']"
+"['fuck', 'mean', 'cornered']",['fuck']
+"['fuck', 'guy']",['fuck']
+"['fuck', 'news', 'story']",['fuck']
+"['fuck', 'wrong', 'australia']",['fuck']
+"['fuck', 'wrong', 'guys']",['fuck']
+['heck'],['heck']
+"['hell', 'wrong', 'people']","['hell', 'wrong']"
+"['whats', 'really', 'pathetic', 'jump', 'conclusions']","['pathetic', 'jump', 'conclusions']"
+"['whats', 'title', 'report', 'shit']",['shit']
+"['age', 'starting', 'realize', 'shit', 'became', 'depressed', 'sucked']","['shit', 'depressed', 'sucked']"
+"['wheres', 'dis', 'schmuck', 'get', 'degree']",['schmuck']
+"['fuck', 'cares', 'whose', 'fault']",['fuck']
+"['t', 'fucking', 'give', 'guy', 'credit', 'voting']",['fucking']
+"['bother', 'fuckface']",['fuckface']
+"['reddit', 'fucking', 'biased']","['fucking', 'biased']"
+"['scale', 'graphed', 'fucked']",['fucked']
+"['fuck', 'give', 'ufo', 'hack', 'interview', 'time']","['fuck', 'hack']"
+"['fuck', 'everyone', 'hate', 'syria', 'much']","['fuck', 'hate']"
+"['fuck', 't', 'condemned', 'north', 'korea']",['fuck']
+"['wow', 'fuck', 'thinking', 'named', 'cleaning', 'product', 'seriously', 'gt', 'lt']",['fuck']
+"['wtf', 'missouri', 'needs', 'catch', 'fuck', 'like', 'right']","['wtf', 'fuck']"
+"['wtf', 'shit', 'self', 'selected', 'internet', 'poll', 'quoted', 'real', 'statistic']","['wtf', 'shit']"
+"['yeah', 'comparitively', 'fuck', 'loads', 'offshore', 'hidden', 'bank', 'accounts', 'smart', 'accountants']",['fuck']
+"['yeah', 'hate', 'shit']","['hate', 'shit']"
+"['yeah', 'give', 'fuck']",['fuck']
+"['yeh', 'well', 'ban', 'fukkers', 'fuck', 'morons']","['ban', 'fukkers', 'fuck', 'morons']"
+"['yet', 'day', 'people', 'still', 'believe', 'bullshit', 'lies', 'clinton']","['bullshit', 'lies']"
+"['ve', 'lost', 'fucking', 'chances']",['fucking']
+"['bit', 'dick']",['dick']
+"['t', 'remember', 'shit']",['shit']
+"['got', 'insane']",['insane']
+"['fucking', 'idea', 'youtu']",['fucking']
+"['leave', 'alone', 'asshole']",['asshole']
+"['trolls', 'still', 'give', 'shit']","['trolls', 'shit']"
+"['types', 'examples', 'idiotic']",['idiotic']
+"['yup', 'keep', 'government', 'shit', 'air', 'unless', 'want', 'shit', 'get', 'worse']",['shit']
+"['yurope', 'fucking', 'awesome', 'way', 'yeah']",['fucking']
+"['damnit', 'much', 'vandalize', 'wo', ""n't"", 'even', 'bother']","['damnit', 'vandalize']"
+"['oh', 'll', 'refresh', 'ip', 'address', 'll', 'take', 'whole', '2', 'minutes', 'fags']",['fags']
+"[""n't"", 'stop', 'bitching', 'll', 'change', 'ip', 'address', 'come', 'back']",['bitching']
+"['fuck', 'think', 'wang', 'chung']",['fuck']
+"['fucking', 'dare', 'delete', 'entry', 'hungarian', 'goalkepper']",['fucking']
+"[""n't"", 'alitalia', 'removed', 'alliance', 'due', 'piss-poor', 'customer', 'service']",['piss-poor']
+"['cease', 'desist', 'anti-zionist', 'bigotry', 'report', 'authorities']","['cease', 'desist', 'anti-zionist', 'bigotry', 'report']"
+"['goths', 'listen', 'gothic', 'rock', 'baby', 'pop', 'want', 'find', 'sources', 'every', 'shit']","['baby', 'pop', 'shit']"
+"['hate', 'free', 'speech', 'shit']","['hate', 'shit']"
+"['need', 'stop', 'pissing', 'others']",['pissing']
+"['started', '5', 'minutes', 'started', 'crap', 'give', 'time']",['crap']
+"[""n't"", 'care', 'ignore', 'warning', 'fucking', 'bitch']","['ignore', 'fucking', 'bitch']"
+"['shut', 'fuck', 'want']","['shut', 'fuck']"
+"['fuck', 'administrator', ""n't"", 'authority', 'tell']","['fuck', ""n't""]"
+"['minority', 'breeder', 'breeder', 'significant', 'person', 'went', 'deleted', 'page', 'started', 'nice', 'job', 'dipshit']",['dipshit']
+"['hey', 'asshole', 'article', 'want', 'delete']",['asshole']
+"['bot', 'seriously', 'driving', 'us', 'crazy', 'image', 'exists', 'must', 'kill']","['crazy', 'kill']"
+"[""n't"", 'give', 'fuck', 'jack']",['fuck']
+"['re', 'blind', 'retarded']","['blind', 'retarded']"
+"['fucking', 'living', 'rock']",['fucking']
+"['changes', 'shit', ""n't"", 'changed']",['shit']
+"['help', 'little', 'idiot']",['idiot']
+"['whatever', 'want', 'right', 'yous', 'problem', 'asshole']","['problem', 'asshole']"
+"['learn', 'read', 'stop', 'surly', 'prick', 'keep', 'snide', 'comments']","['surly', 'prick', 'snide']"
+"['nat', 'piece', 'shit', 'ignore']","['piece', 'shit', 'ignore']"
+"['really', 'stupid', 'trying', 'sound', 'cool']",['stupid']
+"['fucking', 'hate', 'ecto']","['fucking', 'hate']"
+"['hell', 'going', 'block', 'editting']",['hell']
+"['wtf', 'fuck', 'person', 'merit', 'page', 'wikipedia']","['wtf', 'fuck']"
+"['gives', 'shit', 'snot', 'nosed', 'kids', 'damn', 'time', 'scorsese', 'damn', 'award']","['shit', 'snot', 'nosed', 'damn']"
+"['block', 'get', 'another', 'ip', 'address', 'ass']","['block', 'ass']"
+"['nothing', 'better', 'sit', 'computer', 'day', 'cunt', 'wikipedia']","['nothing', 'better', 'cunt']"
+"[""n't"", 'fucking', 'joking', 'asshole', ""n't"", 'see', 'make', 'joke']","['fucking', 'asshole']"
+"['please', 'unblock', 'us', 'really', 'idiots', 'school']",['idiots']
+"['appear', 'idiot', 'legitimate', 'edits', 'stop', 'reverting']","['idiot', 'stop', 'reverting']"
+"['yo', 'fuck', 'problem', 'fucking', 'around', 'page', 'leave', 'fuck', 'alone']","['fuck', 'problem', 'fucking']"
+"['m', 'retired', 'fuckers', 'leave', 'alone']",['fuckers']
+"['pablo', 'fucking', 'troll', 'abusing', 'wiki', 'communist', 'agenda']","['fucking', 'troll', 'abusing', 'communist', 'agenda']"
+"['suggestion', 'shut', 'fuck']","['shut', 'fuck']"
+"['re', 'sick', 'right', 'edit', 'pages', 'retards', 'like', 'dora', 'barney']","['sick', 'retards']"
+"['whole', 'world', 'needs', 'know', 's', 'fucking', 'gay']",['fucking']
+"['someone', ""n't"", 'listen', 'propagandhi', 'pity', 'fool']","['pity', 'fool']"
+"['atheists', 'hate', 'guy', 'dare', 'attack', 'philosophy', 'hedonism', 'brave', 'new', 'world']","['hate', 'attack']"
+"['profile', 'protected', 'bermender', 'since', 'day', 'fukkin', 'one']",['fukkin']
+"['sleep', 'night', 'son', 'bitch']","['son', 'bitch']"
+"['review', 'bullshit', 'policy', 'personal', 'attacks']",['bullshit']
+"['get', 'bullshit']",['bullshit']
+"['many', 'unsecured', 'wi-fi', 'hot', 'spots', 'many', 'idiot', 'wikipedia', 'pages']",['idiot']
+"['idiot', ""n't"", 'without', 'community', 'consensus']",['idiot']
+"['dick', 'insists', 'ned', 'holness', ""n't"", 'german', 'blood']",['dick']
+"['nick', 'cooper', 'self-delusive', 'idiot', 'nick', 'cooper', 'unable', 'face', 'facts']","['self-delusive', 'idiot', 'unable', 'face', 'facts']"
+"['kind', 'stupid', 'name', 'bongwarrior', 'anyway', 'prick']","['stupid', 'prick']"
+"['hi', 'hi', 'muthafuckaa', 'man']",['muthafuckaa']
+"['stop', 'fucking', 'retarded', 'kids', 're', 'going', 'ruin', 'everyone', 'kfar']","['fucking', 'retarded', 'ruin']"
+"['right', 'israel', 'fucking', 'scum']","['right', 'fucking', 'scum']"
+"['suggest', 'flabbergastingly', 'arrogant']",['arrogant']
+"['book', 'boring', 'nad', 'dumb', 'could', 'one', 'ever', 'read', 'itin']","['boring', 'dumb']"
+"['please', 'carry', 'everyone', 'see', 'ignorant', 'arse']","['ignorant', 'arse']"
+"['drive', 'subaru', 'legacy', 'm', 'conservative', 'still', 'think', 're', 'idiot']",['idiot']
+"['didnt', 'fucking', 'change', 'genre', 'put', 'commas']",['fucking']
+"[""n't"", 'make', 'say', 'place', 'dump']",['dump']
+"['ok', 'delete', 'page', 'tired', 'shit', 'already']","['tired', 'shit']"
+"['miserable', 'keep', 'blocking', 'people', 'control', 'freak']","['miserable', 'control', 'freak']"
+"['dear', 'greenman', 'usual', 'proven', 'arse', 'hole']","['arse', 'hole']"
+"['matters', 'want', 'blocked', 'hell']","['blocked', 'hell']"
+"['re', 'admin', 'shut', 'fuck', 'faggot']","['shut', 'fuck', 'faggot']"
+['dick'],['dick']
+"['1984', 'sh']",['sh']
+"['yes', 'wikipedia', 'page', 'like', 'mentioned', 'dumbass']",['dumbass']
+"['oh', 'shit', 'nooooo', 'someone', 'going', 'spank']",['shit']
+"['fuck', 'would', 'add', 'prank', 'edits', 'small', 'inaccurate']","['fuck', 'prank', 'inaccurate']"
+"['revert', 'damn', 'edit']",['damn']
+"['idiot', 'used', 'ip', 'address', '2', 'years', 'ago', 'vandalized', 'wikipedia']","['idiot', 'vandalized']"
+"['ill', 'get', 'solicitor', 'contact', 'fucking', 'insane']",['fucking']
+"['come', 'unblock', 'idiot']",['idiot']
+"['certain', 'stupidity', 'surrounding', 'makes', 'conclude', 'born', 'us']",['stupidity']
+"[""n't"", 'unless', 'want', 'fucked', 'brain', 'everything', 'else']",['fucked']
+"['mind', 'telling', 'hell']",['hell']
+"['ca', ""n't"", 'clean', 'shit']",['shit']
+"['nazi', 'asshole', 'ip', 'banning', 'working']","['nazi', 'asshole']"
+"['24/7', 'stop', 'making', 'idiotic', 'changes', 'article']",['idiotic']
+"['must', 'lowest', 'iq', 'anyone', 'wikipedia', 'ca', ""n't"", 'converse', 'fool', 'like']","['lowest', 'iq', 'fool']"
+"['probably', 'german', 'fucking', 'germans', 'nothing', 'changes']",['fucking']
+"['steak', 'diane', 'please', 'stop', 'fucking', 'edits', 'steak', 'diane', 'thank']",['fucking']
+"['p.s', 'hell', 'going', 'block', ""n't"", 'admin']",['hell']
+"['byzantıum', 'fuck', 'ıs', 'problem']","['fuck', 'problem']"
+"['quit', 'disrespecting', 'pagans', 'go', 'back', 'fucking', 'kkk', 'meeting']","['disrespecting', 'fucking', 'kkk']"
+"['amins', 'bastards']",['bastards']
+"['hope', 'leave', 'shithole', 'like', 'faggot']","['shithole', 'faggot']"
+"['tell', 'fucking', 'crap', 'amib', 'ya']","['fucking', 'crap']"
+"['hey', 'asshole', 'll', 'add', 'whatever', 'want', 'aobut', 'edison', 'new', 'jersey', 'wikipedia']",['asshole']
+"['narc', 'please', 'quit', 'fucking', 'edits', 'steak', 'diane']","['narc', 'fucking']"
+"['check', 'user', 'page', 'fat', 'miserable', 'balding', 'fuck']","['fat', 'miserable', 'balding', 'fuck']"
+"['quit', 'defacing', 'user', 'page', 'ugly', 'cunt']","['defacing', 'ugly', 'cunt']"
+"['crap', 'job', 'enjoy', 'deleting', 'peoples', 'pages', 'day', 'power', 'trip']","['crap', 'deleting', 'power', 'trip']"
+"['another', 'self-appointed', 'moderator', 'victorians', 'think', 'shit', ""n't"", 'stink']","['self-appointed', 'shit', ""n't"", 'stink']"
+"['hate', 'andrewmc123', 'hes', 'asshole']","['hate', 'asshole']"
+"['motherfucking', 'asshole', 'keeps', 'revert', 'warring', 'without', 'talk', 'page', 'discussion']","['motherfucking', 'asshole', 'revert', 'warring']"
+"['want', 'describe', 'bnp', 'currently', 'drop', 'fascist', 'rubbish']","['fascist', 'rubbish']"
+"['forgot', 'mention', 'even', 'sadder', 'cunt']","['sadder', 'cunt']"
+"['get', 'edited', 'pen', 'island', 'name', 'dick']",['dick']
+"['stop', 'screwing', 'edits', 'copyright', 'fools']","['screwing', 'fools']"
+"['idiot', 'read', 'storyline', 'next', 'time']",['idiot']
+"['went', 'site', 'found', 'nothing', 'fuck']",['fuck']
+"['one', 'deserves', 'stupid']",['stupid']
+"['watch', 'guy', 's', 'bossy', 'continues', 'cyberbully', 'total', 'dumbfuck']","['bossy', 'cyberbully', 'dumbfuck']"
+"['fuck', 'see', 'page', 'comments', 'work']",['fuck']
+"[""n't"", 'threaten', 'violation', 'several', 'wikipedia', 'rules', 'little', 'b-itch']","['threaten', 'violation', 'b-itch']"
+"['randi', 'born', 'dick']",['dick']
+"['randi', 'never', 'overcome', 'dick']","['never', 'dick']"
+"['last', 'warning', 'stop', 'asshole']",['asshole']
+"['thanks', 'help', 're', 'still', 'cunt']",['cunt']
+"['drake', 'bell', 'transphobic', 'trash', 'people', 'need', 'know']","['transphobic', 'trash']"
+"['spent', 'worst', '3', 'months', 'life', 'hell', 'hole']","['worst', 'hell', 'hole']"
+"['user', 'page', 'say', 'waht', 'want', 'vandalize', 'fuck']","['vandalize', 'fuck']"
+"['nancy', 'like', 'fuck', 'people', 's', 'fun']",['fuck']
+"['heh', 'look', 'everything', 'google', 'dumbass']",['dumbass']
+"['gilliam', 'please', 'unblock', 'stupid', 'sister', 'always', 'using', 'computer', ""n't"", 'know']",['stupid']
+"['hell', 'suspicion', 'true', 'wikipedia', 'driven', 'fucking', 'atheists', 'hell']","['hell', 'fucking', 'atheists']"
+"['anyone', 'believe', 'shit']",['shit']
+"['good', 'riddance', 'irrational', 'jerk', 'm', 'glad', 're', 'gone', ""n't"", 'ever', 'come', 'back']","['irrational', 'jerk', 'gone', ""n't"", 'ever', 'come', 'back']"
+"['stop', 'editing', 'karlie', 's', 'page', 'kill']",['kill']
+"['fuck', 'm', 'accused', 'shit', ""n't""]","['fuck', 'shit']"
+"['meant', 'entire', 'reaction', 'section', 'stupid', ""n't"", 'know', 'added', 'international']",['stupid']
+"['stop', 'fucking', 'wikipedia', 'faggot']","['fucking', 'faggot']"
+"['anonymous', 'accident', 'fyi', 'm', 'troll', 'moron']","['troll', 'moron']"
+"['thanks', 'ass', 'tried', 'help']",['ass']
+"['stay', 'fuck', 'ping', 'pong', 'want', 'information', 'mushu', 'shrimp', 'ask']",['fuck']
+"['include', 'refrences', 'shit', 'write', 'article', 'without', 'interfering']","['shit', 'interfering']"
+"['re', 'fucking', 'moron', 'go', 'read', 'notability', 'guidelines']","['fucking', 'moron']"
+"['fucking', 'problem', 'njgw']",['fucking']
+"['oh', 'dear', 'oh', 'dear', 'fukin', 'sad']",['fukin']
+"['blanked', 'articles', 'warez', 'groups', 'dumb', 'ass']","['dumb', 'ass']"
+"['person', 'communist', 'taken', 'outside', 'shot', 'traitor']","['traitor', 'shot']"
+"['image', 'broke', 'monitor', 'one', 'face', 'pathetic', 'little', 'oil', 'pit']","['broke', 'pathetic', 'oil', 'pit']"
+"['well', ""n't"", 'talk', 'jackass']",['jackass']
+"['alansoh', 'real', 'jackass', 'life', 'stop', 'screwing', 'around', 'changes', 'true']","['jackass', 'life', 'screwing', 'around']"
+"['long', 'live', 'fascist', 'greeks', 'european', 'union']",['fascist']
+"['d', 'remove', 'u', 'nlgga']",['nlgga']
+"['hey', 'fuck', 'talk', 'page', 'semi-protected']",['fuck']
+"['go', 'fuck', 'stop', 'contacting', 'never', 'touched', 'kitfo', 'page']",['fuck']
+"['lmao', 'at', 'gary', 'thought', 'anthony', 'would', 'make', 'good', 'vocalist', 'bad', 'ass', 'style', 'partymaniac', 'attitude']","['bad', 'ass', 'partymaniac']"
+"['please', 'stop', 'vandalising', 'page', 'cunt']","['vandalising', 'cunt']"
+"['bubble', 'tea', 'thanks', 'ass', 'hole']","['ass', 'hole']"
+"['dumb', 'people', 'fell', 'shenanigans']","['dumb', 'shenanigans']"
+"['must', 'suck']",['suck']
+"['hello', 's', 'dickhead', 's', 'going']",['dickhead']
+"['haha', 'fuckin', 'page']",['fuckin']
+"[""n't"", 'sit', 'stick', 'idiot']",['idiot']
+"['newspaper', 'picture', 'stupid', 'hell']","['stupid', 'hell']"
+"['shared', 'ip', ""n't"", 'mind', 'us', 'lots', 'shitheads']",['shitheads']
+"['give', 'one', 'reason', 'listen', 'moron', 'like']",['moron']
+"['stop', 'stop', 'putting', 'stupid', 'things', 'talk', 'page']",['stupid']
+"['s', 'fucken', 'offensive', 'scumbag', 'wishing', 'someone', 'age', 'another', 'year', 'voyeurism', 'violent', 'world']","['fucken', 'offensive', 'scumbag', 'voyeurism', 'violent']"
+"['article', 'sucks', 'would', 'nominate', 'deletion', ""n't"", 'protected']","['sucks', 'deletion']"
+"['thanks', 'lot', 'man', 'dont', 'know', 'long', 'thats', 'fuckin', 'head']",['fuckin']
+"[""n't"", 'fucking', 'give', 'damn']","['fucking', 'damn']"
+"['stop', 'trying', 'logical', 'stupid', 'robot']",['stupid']
+"['like', 'said', 'keep', 'shitty', 'grammar']",['shitty']
+"['quit', 'bitching', 'tattletale']","['bitching', 'tattletale']"
+"[""n't"", 'give', 'fuck', 'think']",['fuck']
+"['really', 'ca', ""n't"", 'bitch']",['bitch']
+"['renzoy16', 'shut', 'fuck']","['shut', 'fuck']"
+"['tigersfan1992', 'idiot', 'allowed', 'protect', 'page']",['idiot']
+"['hey', 'mind', 'friggin', 'business', 'would', 'ya']",['friggin']
+"['people', 'insane']",['insane']
+"['cares', 'fuck', 'nbc', 'universal', 'funny', 'commentary']",['fuck']
+"['maybe', 'least', 'american', 's', 'smarter', 'dumbass', 'brits']",['dumbass']
+"['going', 'hack', 'dick', 'account']","['hack', 'dick']"
+"['re', 'real', 'cunt', 'know']",['cunt']
+"['hi', 'please', 'unblock', 'cunt', 'want', 'tell', 'wikipedia', 'suck', 'dogs']","['cunt', 'suck', 'dogs']"
+"['deleted', 'fucking', 'spoiler', 'warnings', 'hell', 'deleted']","['fucking', 'hell']"
+"['know', 'ugly', 'piece', 'shit']","['ugly', 'shit']"
+"['careful', 'call', 'moron']",['moron']
+"[""n't"", 'care', 'u', 'bitch']",['bitch']
+"['gwernol', 'sad', 'little', 'man', 'wee', 'penis']","['sad', 'little', 'wee']"
+"['like', 'give', 'two', 'shits', 'right']",['shits']
+"['dont', 'really', 'like', 'liberals', 'either', 'much', 'lefty', 'rubbish', 'leaves', 'us', 'poor']","['rubbish', 'poor']"
+"['putting', 'stupid', 'comments', 'articles', 'result', 'account', 'blocked']","['stupid', 'blocked']"
+"['even', 'know', 'fucking', 'much', 've', 'wasted', 'crapp']","['fucking', 'wasted', 'crapp']"
+"['ryulong', 'proves', 's', 'fucking', 'moron']","['fucking', 'moron']"
+"['like', 'fucking', 'retard']","['fucking', 'retard']"
+"['yeah', 'fuck', 'incel']","['fuck', 'incel']"
+"['brought', 'nigga', 'home']",['nigga']
+"['america', 'country', 'full', 'degenerates']",['degenerates']
+"['dumb', 'ass', 'losers', 'looting', 'pakistan', 'economy']","['dumb', 'ass', 'losers', 'looting']"
+"['niggas', 'pathetic']","['niggas', 'pathetic']"
+"['teach', 'remove', 'fucking', 'edits']",['fucking']
+"['need', 'stop', 'editing', 'pages', 'right', 'little', 'shit']","['little', 'shit']"
+"['still', 'dont', 'know', 'hell', 'assholes']","['hell', 'assholes']"
+"['fucking', 'disgrace']","['fucking', 'disgrace']"
+"['fuck', 'keep', 'changing', 'dick']","['fuck', 'dick']"
+"['obviously', 'never', 'attended', 'college', 'moron']",['moron']
+"['shut', 'know', 's', 'vandalism', 'awful', 'cunt']","['shut', 'vandalism', 'awful', 'cunt']"
+"['edits', 'wrong', 'stop', 'stupidity', 'motherfucker']","['wrong', 'stupidity', 'motherfucker']"
+"['one', 'vandalizing', 'assholes', 'get', 'straight']","['vandalizing', 'assholes']"
+"['dude', 'calm', 'fuck']",['fuck']
+"['anyone', 'even', 'know', 'fuck', 'song']",['fuck']
+"['jackass', 'vandalized', 'article', 'someone', 'fix']","['jackass', 'vandalized']"
+"['rules', 'capitalization', 'opinion', 'dick', 'head']","['dick', 'head']"
+"['another', 'example', 'schumin', 'dick']",['dick']
+"['m', 'afraid', 'ca', ""n't"", 'verify', 'myspace', 'account', 'deleted', 'fucking', 'hate']","['fucking', 'hate']"
+"['mean', ""n't"", 'keep', 'nose', 'people', 's', 'fucking', 'business', 'twat']","['fucking', 'twat']"
+"['lets', 'edit', 'user', 'pages', 'look', 'like', 'fucking', 'moron', 'ok']","['fucking', 'moron']"
+"['stalking', 'little', 'shit', 'need', 'stop', 'following', 'around', 'wikipedia', 'deleting', 'every', 'fuckin', 'thing', 'write']","['stalking', 'shit', 'fuckin']"
+"['fuck', 's', 'sake', 'gon', 'na', 'send', 'piece', 'shit', 'chair']","['fuck', 's', 'shit']"
+"['deserves', 'every', 'beating', 'rape', 'subjected']","['deserves', 'beating', 'rape', 'subjected']"
+"['sudden', 'see', 'shes', 'got', 'big', 'phony', 'tits', 'everything']","['phony', 'tits']"
+"['page', 'protected', 'first', 'worthless', 'scum', 'like', 'ca', ""n't"", 'keep', 'vandalizing']","['worthless', 'scum', 'vandalizing']"
+"['made', 'mistake', 'ass']",['ass']
+"['know', 'idiots', 'stay', 'course', 'truth', 'prevail']",['idiots']
+"['piss', 'fuckin', 'jerk', 'get', 'nerves']","['piss', 'fuckin', 'jerk', 'get', 'nerves']"
+"['addition', 'see', 'sock', 'puppet', 'jackass']",['jackass']
+"['really', 'gives', 'crap']",['crap']
+"['point', 'either', 'choice', 'shit']",['shit']
+"['u', 'dick', 'wars', 'back']","['dick', 'wars']"
+"['fuck', 'minimum', 'security', 'put', 'real', 'prison']","['fuck', 'real', 'prison']"
+"['see', 'nothing', 'wrong', 'calling', 'asshole', 'asshole']",['asshole']
+"['people', 'leave', 'cuba', 'alone', 'get', 'feet', 'number', 'fuckin', 'minutes']",['fuckin']
+"['give', 'fuck']",['fuck']
+"['people', 'posting', 'wrong', 'results', 'problem', 'jackass']","['wrong', 'jackass']"
+"['see', 'kid', 'talking', 'hate', 'never', 'leaves', 'alone']","['hate', 'never', 'leaves', 'alone']"
+"['new', 'zealanders', 'pack', 'cunts', 'need', 'get', 'mention']",['cunts']
+"['would', 'lost', 'shit', 'years', 'ago']","['lost', 'shit']"
+"['mf', 'mutual', 'enemy', 'sanctimonious', 'bullshit']","['enemy', 'sanctimonious', 'bullshit']"
+"['liars', 'burn', 'hell', 'without', 'salvation']","['liars', 'burn', 'hell']"
+"['jesus', 'christ', 's', 'incredibly', 'fucked']",['fucked']
+"['deadly', 'behavior', 'abusive', 'police', '60s', 'referred', 'pigs']","['deadly', 'abusive', 'pigs']"
+"['harper', 'nothing', 'incompetent', 'corrupt']","['incompetent', 'corrupt']"
+"['shit', 'lockheed', 'raytheon', 'boeing', 'name', 'employs', 'half', 'districts', 'employees']",['shit']
+"['smart', 'rejecting', 'shitty', 'ass', 'corn']","['shitty', 'ass']"
+"['holy', 'shit', 'thought', 'joke']",['shit']
+"['cant', 'believe', 'even', 'discussing', 'crap', 'like']",['crap']
+"['people', 'really', 'think', 'everyone', 'dumb', 'recognize', 'double', 'standard']","['dumb', 'double', 'standard']"
+"['fuck', ""n't"", 'stalk', 'edits']","['fuck', 'stalk']"
+"['fuck', 'want', 'talk', 'page']",['fuck']
+"['bin', 'laden', '19', 'so-called', 'hijackers', 'patsies']","['so-called', 'patsies']"
+"['making', 'distributing', 'cp', 'fucked']",['fucked']
+"['fuck', 'red', 'light', 'cameras', 'money', 'grubbing', 'cities', 'use']","['fuck', 'money', 'grubbing']"
+"['hell', 'question', 'talking']",['hell']
+"['germans', 'today', 'blind', 'brainless', 'followtheleader', 'sheep', 'inand', 'throughout', 'history']","['blind', 'brainless', 'followtheleader', 'sheep']"
+"['self', 'respecting', 'australian', 'new', 'zealand', 'would', 'read', 'hateful', 'shit']","['hateful', 'shit']"
+"['pay', 'check', 'taxpayers', 'bunch', 'idiot', 'bureaucrats', 'keeps', 'adding', 'zeros', 'every', 'time', 'open', 'mouths']","['idiot', 'bureaucrats', 'adding', 'zeros', 'open', 'mouths']"
+"['stop', 'sending', 'stupid', 'messages', 'fixing', 'mistake', 'article']",['stupid']
+"['unless', 'harvesting', 'grinding', 'beans', 'fucked']",['fucked']
+"['yeah', 'thats', 'really', 'good', 'way', 'get', 'life', 'fucking', 'fag']","['fucking', 'fag']"
+"['israeli', 'rabbis', 'never', 'say', 'fucked', 'shit']","['fucked', 'shit']"
+"['kid', 'watching', 'crap', 'call', 'cartoons', 'made', 'generation']",['crap']
+"['digit', 'suggesting', 'enough', 'keep', 'uppity', 'blacks', 'satisfied']","['uppity', 'blacks']"
+"['clear', 'first', 'fucking', 'sentence', 'article']",['fucking']
+"['dumb', 'motherfucker', 'going', 'sue', 'shit']","['dumb', 'motherfucker', 'sue', 'shit']"
+"['instead', 'trying', 'make', 'difference', 'ye', 'old', 'witch', 'interested', 'making', 'statement']",['witch']
+"['wish', 'people', 'would', 'shut', 'fuck', 'big', 'money', 'politics']","['shut', 'fuck']"
+"['re', 'complete', 'jerk']",['jerk']
+"['weve', 'got', 'one', 'clown', 'wh']",['clown']
+"['shit', 'got', 'real', 'upload']",['shit']
+"['fuck', 'think', 'watch', 'anime']",['fuck']
+"['shit', 'gone', 'full', 'circle', 'parody']",['shit']
+"['tired', 'dick', 'jokes']","['tired', 'dick']"
+"['time', 'wage', 'war', 'blow', 'shit']","['wage', 'war', 'blow', 'shit']"
+"['also', 'fuck', 'tepco', 'anywhere', 'near']",['fuck']
+"['dumdums', 'actually', 'throw', 'money', 'clowns']","['dumdums', 'clowns']"
+"['fuck', 'wrong']",['fuck']
+"['actually', 'hate', 'looking', 'shit']","['hate', 'shit']"
+"['fuck', 'getting', 'outer', 'space']",['fuck']
+"['s', 'really', 'fucking', 'stupid', 'wonder', 'never', 'remember']","['fucking', 'stupid']"
+"['news', 'op', 'fucking', 'retard']","['fucking', 'retard']"
+"['assad', 'leaves', 'total', 'shit', 'show', 'syria']","['shit', 'show']"
+"['done', 'shit', 'many', 'years', 'especially', 'large', 'famine', 'hit', 'mid', 'number']",['shit']
+"['holy', 'shit', 'super', 'aggressive', 'udyr', 'played', 'two', 'days', 'ago']","['shit', 'aggressive']"
+"['fucking', 'idiot']","['fucking', 'idiot']"
+"['live', 'mom', 'im', 'gay', 'fag', 'lives', 'england']",['fag']
+"['missed', 'fucked', 'sentence']",['fucked']
+"['believe', 're', 'arse', 'hey', 'cope']",['arse']
+"['way', 'sorry', 'stupid', 'edit']",['stupid']
+"['likely', 'bought', 'fucking', 'koch', 'brothers']",['fucking']
+"['dont', 'dick', 'add', 'stupid', 'clear', 'vandalism', 'articles']","['dick', 'stupid', 'vandalism']"
+"['thats', 'asinine', 'racist', 'comment']","['asinine', 'racist']"
+"['dont', 'need', 'stinking', 'nevertrumpers']","['stinking', 'nevertrumpers']"
+"['revert', 'single', 's', 'cover', 'original', 'bastard', 'decided', 'replace', 'monkey']",['bastard']
+"['think', 'town', 'texas', 'would', 'cover', 'kind', 'shit', 'insane']","['shit', 'insane']"
+"['find', 'using', 'religion', 'deny', 'rights', 'women', 're', 'piece', 'shit']","['deny', 'piece', 'shit']"
+"['yo', 'buddy', 'saying', 'mean', 'shit']","['mean', 'shit']"
+"['need', 'consider', 'shit']",['shit']
+"['refreshing', 'see', 'someone', 'fucking', 'smart', 'edgy']",['fucking']
+"['even', 'fucking', 'talk', 'pages', 'ca', ""n't"", 'comment', 'users']",['fucking']
+"['boeing', 'behaving', 'exactly', 'like', 'greedy', 'bully', 'would']","['greedy', 'bully']"
+"['fucking', 'dumbass', 'kid', 'though']","['fucking', 'dumbass']"
+"['mostly', 'middle', 'street', 'shit']",['shit']
+"['jesus', 'nice', 'sunday', 'afternoon', 'read', 'shit']",['shit']
+"['article', 'many', 'comments', 'suck']",['suck']
+"['re', 'welcome', 'take', 'brain', 'dead', 'asses', 'back', 'shithole', 'country']","['brain', 'dead', 'asses', 'shithole']"
+"['fuck', 'funny', 'wikipedia', 'article', 'tried', 'create', 'actual', 'article']",['fuck']
+"['hey', 'fuck', 'rolling', 'earthquake', 'nickname', 'come', 'havent', 'ever', 'heard', 'tht']",['fuck']
+"['keep', 'filthy', 'paws', 'wikipedias', 'articles', 'unless', 'something', 'worthwhile', 'contribute']",['filthy']
+"['confused', 'legal', 'firm', 'bull', 'shit', 'associates']","['bull', 'shit']"
+"['shut', 'hell', 'know', 'talking']","['shut', 'hell']"
+"['drench', 'fucking', 'thing', 'bbq', 'sauce']",['fucking']
+"['fuck', 'whiny', 'cunts', 'buy', 'seats', 'knowing', 'others', 'recline', 'around', 'bitch']","['fuck', 'whiny', 'cunts', 'bitch']"
+"['fuck', 'roger', 'swivel', 'talk']",['fuck']
+"['shit', 'even', 'country']",['shit']
+"['shut', 'hell', 'jeremya', 'stop', 'posting', 'nonsense']","['shut', 'hell', 'nonsense']"
+"['crimea', 'voted', 'secession', 'russia', 'accepted', 'annexed', 'crimea', 'fucking', 'crisis']",['fucking']
+"['better', 'keep', 'mouth', 'shut', 'thought', 'fool', 'open', 'proven', 'one']",['fool']
+"['didnt', 'attack', 'retard', 'post', 'page']","['retard', 'post']"
+"['re', 'first-class', 'dick', 'focus', 'edit', 'article', 'properly']",['dick']
+"['military', 'stupid']",['stupid']
+"['re', 'right', 'allmusic', 'last', 'shit']",['shit']
+"['australian', 'say', 'mate', 'cunt', 'time']",['cunt']
+"['drop', 'health', 'insurance', 'companies', 'together', 'get', 'government', 'stop', 'hospitals', 'fucking', 'price', 'gouging']","['fucking', 'price', 'gouging']"
+"['yeah', 'americans', 'quadruple', 'citizenship', 'go', 'case', 'shit', 'gets', 'serious', 'anywhere', 'else']",['shit']
+"['special', 'needs', 'child', 'autism', 'angry', 'little', 'shit', 'self', 'control']","['angry', 'shit', 'self', 'control']"
+"['s', 'get', 'faggot']",['faggot']
+"['gt', 'obama', 'lying', 'sack', 'shit']","['lying', 'sack', 'shit']"
+"['school', 'district', 'sucks', 'know', 'cause', 'go']",['sucks']
+"['two', 'faced', 'fucks']","['two', 'faced', 'fucks']"
+"['hello', 'name', 'anon', ""n't"", 'fuck', '4chan']",['fuck']
+"['guess', 'revert', 'bitch']",['bitch']
+"['talk', 'page', 'keep', 'bitching', 'thanks']",['bitching']
+"['could', 'fooled', 'governments', 'corrupt', 'fuck']","['corrupt', 'fuck']"
+"['fucking', 'lied']","['fucking', 'lied']"
+['stupid'],['stupid']
+"['badge', 'honor', 'bitches']",['bitches']
+"['say', 'anything', 'cover', 'asses']","['cover', 'asses']"
+"['impeachment', 'trump', 'really', 'dumb', 'idea']",['dumb']
+"['interest', 'stupid', 'pedia']",['stupid']
+"['right', 's', 'implying', 'saying', 'un', 't', 'shit', 'russia', 'sc']",['shit']
+"['public', 'computers', ""n't"", 'ban', 'uss', 'people', 'retarded']",['retarded']
+"['trying', 'dick', 'think', 'cure', 'anything']",['dick']
+"['could', 'understand', 'many', 'people', 'would', 'shit', 'pants', 'seeing', 'title', 'like']",['shit']
+"['clockwork', 'orange', 'level', 'shit']",['shit']
+"['turkey', 'could', 'invade', 'russia', 't', 'able', 'shit', 'either']","['invade', 'shit']"
+"['sit', 'ass', 'home', 'vote', 'peril']","['ass', 'peril']"
+"['ve', 'come', 'across', 'mokele', 'power', 'hungry', 'little', 'bully']","['power', 'hungry', 'bully']"
+"['mind', 'language', 'm', 'working', 'real', 'people', 'ignorant', 'dumbass']","['ignorant', 'dumbass']"
+"['west', 'spoiled', 'shit']","['spoiled', 'shit']"
+"['justify', 'moronic', '2', 'day', 'block']",['moronic']
+"['never', 'knew', 'rich', 'silly', 'tourists', 'loud', 'aloha', 'shirts']","['silly', 'loud']"
+"['case', 'forgot', 'way', 'hardrock-idiot', 'started', 'stupid', 'webbased', 'forum']","['idiot', 'stupid']"
+"['deal', 'think', 'everyone', 'society', 'shit', 'stain']","['shit', 'stain']"
+"['assad', 'must', 'shitting', 'pants', 'fear']","['shitting', 'fear']"
+"['everybody', 'fucking', 'pussy']","['fucking', 'pussy']"
+"['honestly', 'hope', 'cockeyed', 'fuck', 'steps', 'keyboard', 'gets', 'absolutely', 'destroyed']","['cockeyed', 'fuck', 'destroyed']"
+"['america', 'would', 'go', 'route', 'shit', 't', 'fly']",['shit']
+"['call', 'stupidity']",['stupidity']
+"['anyone', 'edit', 'retarded']",['retarded']
+"['damn', 'forgot', 'log', 'brab']",['damn']
+"['ibrahim', 'kind', 'dick', 'lately']",['dick']
+"['quoting', 'dumb', 'bastard']","['dumb', 'bastard']"
+"['call', 'people', 'whatever', 'like', 'idiot']",['idiot']
+"['watched', 'guy', 'ted', 'fucking', 'epic']",['fucking']
+"['give', 'fuck', 'going']",['fuck']
+"['hard', 'constructive', 'party', 'behaves', 'like', 'godking', 'thug']","['godking', 'thug']"
+"['joke', 's', 'intolerant', 'fuck']","['intolerant', 'fuck']"
+"['yea', 'fuck', 'government', 'involved', 'kids', 'education']",['fuck']
+"['glad', 'see', 'allowed', 'fuck', 'santa', 'barbara', 'coast']",['fuck']
+"['tell', 'admin', 'friends', 'fuck']",['fuck']
+"['sell', 'ships', 'find', 'new', 'job', 'get', 'fuck', 'number', 'th', 'century', 'thanks']",['fuck']
+"['man', 'shot', 'war', 'crimes', 'murder']","['shot', 'war', 'crimes', 'murder']"
+"['stop', 'pussy', 'mom', 'something']",['pussy']
+"['sucks', 'youre', 'awful', 'person']","['sucks', 'awful']"
+"['site', 'rubbish', 'possibly', 'slanderous']","['rubbish', 'slanderous']"
+"['fucking', 'reposted', 'much']",['fucking']
+"['ar', 'stop', 'pissing', 'bullshit', 'listen']","['pissing', 'bullshit']"
+"['well', 'dunno', 'asshole', 'definitely', 'fucking', 'moron']","['asshole', 'fucking', 'moron']"
+"['blocks', 'deter', 'may', 'blocked', 'still', 'asshole']","['blocks', 'deter', 'blocked', 'asshole']"
+"['yes', 'stink', 'high', 'heaven', 'enough', 'gullible', 'fools', 'praise', 'outfit', 'nonetheless']","['stink', 'gullible', 'fools']"
+"['yet', 'fifa', 'give', 'two', 'fucks']",['fucks']
+"['professors', 'rhetoric', 'pompous', 'self-centered', 'assholes']","['pompous', 'self-centered', 'assholes']"
+"['fuck', 'care']",['fuck']
+"['end', 'dick']",['dick']
+"['ll', 'bet', '80', 'rubbish']",['rubbish']
+"['would', 'fucking', 'illegal', 'shit', 'straight', 'kill', 'someone']","['fucking', 'shit', 'kill']"
+"['sure', 'fuck', 'nothing', 'anything', 'said']","['fuck', 'nothing']"
+"['never', 'trust', 'anything', 'repugs', 'try', 'shove', 'throat']","['repugs', 'shove']"
+"['man', 'biggest', 'piece', 'shit', 'ny', 'recent', 'history']","['biggest', 'piece', 'shit']"
+"['dont', 'time', 'assholes']",['assholes']
+"['repsonse', 'carry', 'destroying', 'wiki', 'project', 'miserable', 'half', 'person']","['destroying', 'miserable', 'half', 'person']"
+"['scum', 'smiling', 'court']",['scum']
+"['putin', 'send', 'depardieu', 'fuck', 'harper', 's', 'wife']",['fuck']
+"['watched', 'letters', 'iwo', 'jima', 'weekend', 'brutal', 'shit']","['brutal', 'shit']"
+"['glad', 'actually', 'believe', 'shit']",['shit']
+"['hey', 'fuck', 'hard', 'get', 'article']",['fuck']
+"['300', 'fucking', 'years', 'mixing', 'enough', 'disqualify', 'someone', 'part', 'certain', 'ethnic', 'group']","['fucking', 'disqualify']"
+"['thats', 'stupid', 'blocked', 'stating', 'fact']",['stupid']
+"['motherfucker', 'nominated', 'deletion']","['motherfucker', 'deletion']"
+"['even', 'brainless', 'hypocritical', 'marxist', 'pigs']","['brainless', 'hypocritical', 'pigs']"
+"['always', 'puffing', 'blowing', 'smoke', 'butt', 'aggrandizing', 'accomplishments']","['puffing', 'blowing', 'smoke', 'butt', 'aggrandizing', 'accomplishments']"
+"['need', 'fuck', 'stop', 'hrassing', 'people']","['fuck', 'hrassing']"
+"['fuck', 'international', 'airspace']",['fuck']
+"['information', 'total', 'garbage']",['garbage']
+"['fucking', 'bullshit']","['fucking', 'bullshit']"
+"['still', 'gigantic', 'faggot']",['faggot']
+"['also', 'fucking', 'rights', 'advertise', 'youtube.com', 'videos']",['fucking']
+['dick'],['dick']
+"['change', 'ip', 'asshole']",['asshole']
+"['bunch', 'asshats', 'pushing', 'agenda', 'instead', 'neutral']",['asshats']
+"['hiya', 'frank', 'know', 'someone', 'called', 'fuck']",['fuck']
+"['holy', 'shit', 'yeah', 'forgot', 'one']",['shit']
+"['people', 'even', 'wash', 'damn', 'hands', 'taking', 'shit']","['damn', 'shit']"
+"['let', 's', 'tough', 'shit', 'men', 'forced']","['shit', 'forced']"
+"['holy', 'shit', 'wrong']","['shit', 'wrong']"
+"['fuck', 'comment']",['fuck']
+"['cant', 'lazy', 'bums', 'anything']","['lazy', 'bums']"
+"['government', 'need', 'land', 'fuck', 'people', 'live', 'right']",['fuck']
+"['must', 'pretty', 'stupid', 'get', 'caught', 'today', 'environment']",['stupid']
+"['hell', 'everybody', 'making', 'etna', 'articles']",['hell']
+"['ridiculous', 'pain', 'meds', 'otc']",['ridiculous']
+"['hate', 'deliting', 'pages', 'stay', 'away', 'pages']",['hate']
+"['well', 'ya', 'go', 'miss', 'cunt']",['cunt']
+"['good', 'thing', 'never', 'supported', 'ass', 'clowns']","['ass', 'clowns']"
+"['start', 'quoting', 'damn', 'cover', 'instead', 'message', 'board']",['damn']
+"['joke', 'canada', 's', 'military', 'joke', 'extremely', 'played', 'shit', 's', 'funny']","['joke', 'shit']"
+"['tell', 'big', 'boobs', 'll', 'stop']","['boobs', 'stop']"
+"['bloated', 'crap', 'comes']","['bloated', 'crap']"
+"['fuck', 'scumbag', 'piece', 'shit', 'political', 'cohorts']","['fuck', 'scumbag', 'piece', 'shit']"
+"['stay', 'fuck', 'page']",['fuck']
+"['check', 'dumb', 'mexican']","['dumb', 'mexican']"
+"['liable', 'break', 'something', 'touch', 'shit', 'shouldnt', 'touch']","['liable', 'break', 'shit']"
+"['legacy', 'selfish', 'shit', 'head']","['selfish', 'shit', 'head']"
+"['got', 'fucking', 'kidding', 'right']","['fucking', 'kidding']"
+"['fuckin', 'knew', 'punking', 'us']","['fuckin', 'punking']"
+"['album', 'fucking', 'post-grunge', 'album']",['fucking']
+"['problem', 'idiot', 'made', 'ridiculous', 'edits', 'infobox']","['idiot', 'ridiculous']"
+"['actually', 'great', 'idea', 'want', 'keep', 'nuts', 'get', 'shit', 'done']","['nuts', 'shit']"
+"['hello', 'get', 'somebody', 'fix', 'shit', 'around']",['shit']
+"['jobs', 'never', 'needed', 'degrees', 'needed', 'white', 'faces', 'degrees', 'hinder', 'niggas', 'getting', 'url']","['hinder', 'niggas']"
+"['member', 'lafayette', 'community', 'fuck', 'matter', 'political', 'standing']",['fuck']
+"['shut', 'mouth', 'stop', 'talking', 'good', 'boy']","['shut', 'stop']"
+"['neither', 'coworkers', 'gave', 'shit', 'came', 'time', 'ditch', 'mitch', 'ugh']","['shit', 'ditch', 'ugh']"
+"['suicide', 'bombing', 'shits', 'giggles', 'certainly']","['suicide', 'bombing', 'shits']"
+"['maybe', 'one', 'rammed', 'ass']","['rammed', 'ass']"
+"['dont', 'try', 'spook', 'dick']",['dick']
+"['named', 'shit']",['shit']
+"['lucky', 'maybe', 'think', 'youre', 'somebody', 'huh', 'fool']",['fool']
+"['go', 'fuck', 'ca', ""n't"", 'see', 'getting', 'action']","['fuck', 'ca', ""n't"", 'see', 'getting', 'action']"
+"['fucking', 'murder', 'book', 'let', 'parents', 'shit', 'time']","['fucking', 'murder', 'shit']"
+"['things', 'complete', 'utter', 'pieces', 'shit']","['complete', 'utter', 'pieces', 'shit']"
+"['people', 'fucking', 'buy']",['fucking']
+"['forgive', 'democrats', 'rich', 'cunts', 'thinking', 'better', 'rich']",['cunts']
+"['always', 'thought', 'fucked', 'go', 'jail', 'paying', 'bill', 'yea', 'productive']",['fucked']
+"['women', 'masculine', 'spirits', 'trash']",['trash']
+"['hey', 'idiot', 'said', 'ill', 'careful', 'remove', 'content']",['idiot']
+"['let', 'darwinism', 'take', 'course', 'least', 'stupid', 'shall', 'inherit', 'earth']",['stupid']
+"['well', 'shit', 'cunt', 'shot']","['shit', 'cunt']"
+"['holy', 'shit', 'finished', 'season', 'good', 'dark', 'especially', 'end']","['shit', 'dark']"
+"['really', 'sad', 'fucking', 'part', 'tried', 'story', 'number', 'maannews']","['sad', 'fucking']"
+"['warning', 'fag', 'supports', 'hitler']","['fag', 'hitler']"
+"['like', 'fucking', 'jurassic', 'park', 'much', 'fluffier']",['fucking']
+"['seriously', 'least', 'number', 'people', 'dead', 'leave', 'aside', 'point', 'scoring', 'generally', 'fuck']","['dead', 'fuck']"
+"['keep', 'dog', 'shit']",['shit']
+"['come', 'ya', 'fuckin', 'dummy', 'get', 'right', 'step', 'right']","['fuckin', 'dummy']"
+"['continue', 'jackass', 'blocked', 'editing', 'wikipedia']","['jackass', 'blocked']"
+"['collins', 'idiot', 'didnt', 'need', 'article', 'establish', 'fact']",['idiot']
+"['could', 'capital', 'israel', 'part', 'israel', 'fucking', 'brainwashed', 'arab', 'dumbass']","['fucking', 'brainwashed', 'dumbass']"
+"['m', 'going', 'reply', 'ignorants', 'comments', 's', 'zero']","['ignorants', 'zero']"
+"['nazi', 'sean', 'hoyland', 'vandalized', 'pages']","['nazi', 'vandalized']"
+"['thought', 'maybe', 'stay', 'fuck', 'away', 'chinese']","['fuck', 'chinese']"
+"['woman', 'bitch', 'man', 'psychopath']","['bitch', 'psychopath']"
+"['oh', 'dumbass', 'mistake']",['dumbass']
+"['next', 'time', 'force', 'eat', 'shit']","['force', 'shit']"
+"['today', 'one', 'fucked', 'days', 'life']",['fucked']
+"['priceless', 'hate', 'guy']",['hate']
+"['stupid', 'ball', 'coach', 'make', 'ten', 'times', 'teacher', 'makes']",['stupid']
+"['digit', 'year', 'olds', 'little', 'shits', 'mean', 'fight']","['little', 'shits', 'fight']"
+"['never', 'uttered', 'wrote', 'crap']",['crap']
+"['comment', 'diatribe', 'outrage', 'home', 'shit']","['diatribe', 'outrage', 'shit']"
+"['ps', 'congradulations', 'recieving', 'bitch', 'star', 'definatly', 'deserve', 'ryan']",['bitch']
+"['things', 'use', 'everyday', ""n't"", 'correct', 'wikipedia', 'blows', 'cock']","['blows', 'cock']"
+"['biologist', 'fucking', 'virologist']",['fucking']
+"['guys', 'shit', 'west']",['shit']
+"['rich', 'government', 'people', 'shit', 'street']",['shit']
+"['stupid', 'water', 'pipe', 'fatal', 'accident', 'waiting', 'happen']","['stupid', 'fatal']"
+"['eli5', 'governments', 'give', 'fuck']",['fuck']
+"['go', 'saddam', 'execution', 'talk', 'page', 'stink', 'place']",['stink']
+"['go', 'work', 'every', 'months', 'assure', 'fucking', 'sucks']","['fucking', 'sucks']"
+"['idiots', 'bound', 'determined', 'start', 'civil', 'war']","['idiots', 'civil', 'war']"
+"['abortion', 'fundamental', 'right', 'proceedure', 'nothing', 'idiot']",['idiot']
+"['hypocrisy', 'knowns', 'bounds']",['hypocrisy']
+"['bunch', 'sick', 'lies']","['sick', 'lies']"
+"['colin', 'kaepernick', 'idiot']",['idiot']
+"['pompous', 'fool']","['pompous', 'fool']"
+"['cophating', 'clowns', 'ever', 'make', 'cora', 'requests', 'case', 'files']","['cophating', 'clowns']"
+"['target', 'valid', 'target', 'nasty', 'little', 'shit']","['nasty', 'shit']"
+"['love', 'live', 'fucking', 'california', 'cost', 'living']",['fucking']
+"['still', 'think', 'living', 'police', 'state', 'wake', 'fuck']","['police', 'state', 'fuck']"
+"['holy', 'shit', 'article', 'filled', 'ads']",['shit']
+"['stop', 'defending', 'neo-nazis', 'fuck']","['neo-nazis', 'fuck']"
+"['wife', 'still', 'gives', 'shit']",['shit']
+"['would', 'really', 'like', 'people', 'could', 'stop', 'acting', 'like', 's', 'got', 'shot', 'fucking', 't']",['fucking']
+"['m', 'ready', 'actually', 'something', 'make', 'shit', 'stop']",['shit']
+"['content', 'going', 'article', 'deleted', 'dumbass']","['deleted', 'dumbass']"
+['hell'],['hell']
+"['guy', 'fucking', 'shot']","['fucking', 'shot']"
+"['strong', 'fiscal', 'management', 'ass', 'steve']",['ass']
+"['pointing', 'condescending', 'ass', 'like', 'euphoric', 'brethren']","['condescending', 'ass']"
+"['sure', 'get', 'punished', 'three', 'fucking', 'years']",['fucking']
+"['ll', 'ignore', 'everyday', 'idiotic', 'anime', 'likings', 'stop', 'attacking']","['ignore', 'idiotic', 'attacking']"
+"['selective', 'censorship', 'non', 'reporting', 'factual', 'correct', 'statements', 'makes', 'leaders', 'idiotic', 'decisions']","['censorship', 'non', 'reporting', 'idiotic']"
+"['3', 't', 'fuck', 'mommas', 'boy']",['fuck']
+"['get', 'ldiot']",['idiot']
+"['fled', 'feel', 'guys', 'fucked', 'turns', 'angry', 'mob']","['fled', 'fucked', 'angry', 'mob']"
+"['shit', 'looked', 'like', 'music', 'video', 'synced', 'audio', 'footage', 'editing']",['shit']
+"['pretty', 'shit', 'logic']",['shit']
+"['reducing', 'early', 'voting', 'number', 'number', 'days', 'sure', 'shitting', 'citizens', 'united', 'states']",['shitting']
+"['delete', '200', 'articles', 'whhore']",['whhore']
+"['faggot', 'm', 'glad', 's', 'dead']","['faggot', 'dead']"
+"['lgbt', 'whine', 'bitch', 'way', 'courts', 'twice', 'declined', 'decision', 'overturned']","['whine', 'bitch']"
+"['throwing', 'ass', 'jail', 'best', 'thing', 'possible', 'since', 'protects', 'others', 'willful', 'drunk', 'driving']","['throwing', 'ass', 'jail', 'willful', 'drunk', 'driving']"
+"['queen', 'mary', 'mrs', 'windsor', 's', 'granny', 'bitch']",['bitch']
+"['piece', 'human', 'garbage', 'rot', 'jail']","['human', 'garbage', 'rot', 'jail']"
+"['shitting', 'good', 'name', 'saying', 'done']",['shitting']
+"['give', 'shit', 'terrorism']",['shit']
+"['top', 'ten', 'relevant', 'fucking', 'sorry']",['fucking']
+"['see', 'many', 'google', 'links', 'titled', 'wikipedia', 'sucks']",['sucks']
+"['unless', 'something', 'useful', 'say', 'fuck']",['fuck']
+"['t', 'give', 'flying', 'fuck', 'long', 'term', 'effects']","['flying', 'fuck']"
+"['m', 'fucking', 'sick', 'reddit', 'assuming', 'people', 'dissenting', 'opinion', 'paid', 'someone', 'else']","['fucking', 'sick', 'assuming']"
+"['minorities', 'bitch', 'moan', 'police', 'uphold', 'law']","['bitch', 'moan']"
+"['idiot', 'ca', ""n't"", 'block', 'anyone']",['idiot']
+"['holy', 'shit', 'higher']",['shit']
+"['careful', 'described', 'goonies', 'shit', 'classic']",['shit']
+"['gawd', 'one', 'massively', 'ignorant', 'fellow']",['ignorant']
+"['s', 'dumb', 'fucking', 'luck']","['dumb', 'fucking']"
+"['fuck', 'pushing', 'diversity']",['fuck']
+"['probably', 'one', 'gives', 'fuck', 'miss', 'upton']","['gives', 'fuck']"
+"['object', 'waste', 'peoples', 'time', 'deconstructing', 'foolish', 'effusions']","['waste', 'foolish', 'effusions']"
+"['looks', 'like', 'fucking', 'around', 'crew', 'making', 'decisions']",['fucking']
+"['said', 'hope', 'get', 'great', 'attorney', 'sue', 'shit', 'cops']","['shit', 'sue']"
+"['bullshit', 'william', 'penn', 'used', 'phrase']",['bullshit']
+"['fuck', 'll', 'live']",['fuck']
+"['fuck', ""n't"", 'anyone', 'included', 'information', 'yet']",['fuck']
+"['tastes', 'like', 'shit', 've', 'never', 'even', 'seen', 'available', 'outside', 'five', 'star', 'restaurants']",['shit']
+"['made', 'changes', 'lets', 'let', 'something', 'stupid', 'happen']",['stupid']
+"['hell', 'feminists', 'think', 'anyway']",['hell']
+"['loud', 'ass', 'one', 'thousand', 'ton', 'beast', 'roaring', 'towards', 'howling', 'horn']","['loud', 'ass', 'beast']"
+"['one', 'know', 'saying', 'correcting', 'cunts']",['cunts']
+"['likes', 'eat', 'shit', 's', 'true', 'told']",['shit']
+"['administrations', 'shit', 'stinks', 'bad', 'last']","['shit', 'stinks']"
+"['s', 'better', 'answer', 'question', 'people', 'made', 'anime', 'fucked']",['fucked']
+"['fucking', 'money', 'supposed', 'earn', 'billions']",['fucking']
+"['guy', 'used', 'real', 'dick']",['dick']
+"['p', 's', 'pictures', 'bitch']",['bitch']
+"['haha', 'okay', 'sick', 'fuck', 'find', 'entertaining', 'see']","['sick', 'fuck']"
+"['food', 'really', 'fucking', 'cheap', 'jail', 'time', 'people', 'robbed', 'stores', 'rather', 'starve', 'death']","['fucking', 'robbed', 'jail', 'starve', 'death']"
+"['boneheads', 'would', 'buy', 'stuff', 'msm']",['boneheads']
+"['randy', 'johnson', 'troll']",['troll']
+"['fuckingtzu', 'tactic', 'shits', 'sake']","['fuckingtzu', 'shits']"
+"['kind', 'stupid', 'response', 'given', 'name', 'article']",['stupid']
+"['daniel', 'pantaleo', 'worthless', 'bag', 'shit', 'got', 'away', 'murdering', 'eric', 'garner']","['worthless', 'shit', 'murdering']"
+"['gogo', 'dodo', 'rogue', 'admin', 'sex', 'father']","['rogue', 'sex']"
+"['done', 'shit', 'palestine']",['shit']
+"['thought', 'world', 'leader', 'picked', 'random', 'shit', 'thank', 'informing', 'us']",['shit']
+"['m', 'glad', 'wikipedia', 'biased', 'filled', 'retarded', 'children']","['biased', 'retarded']"
+"['redditors', 'busy', 'sucking', 'bernie', 'dick', 'care']","['sucking', 'dick', 'busy', 'care']"
+"['think', 'town', 'texas', 'would', 'cover', 'kind', 'shit', 're', 'insane']","['shit', 'insane']"
+"['fuck', 'alcohol', 'anyone', 'drives', 'drinking', 'stuff']",['fuck']
+"['iran', 'says', 'shit', 'mail', 'arrives', 'late']",['shit']
+"['republicans', 'democrats', 'right', 'left', 'cheeks', 'ass']",['ass']
+"['shit', 'get', 'worth', 'hundreds', 'thousands', 'millions', 'dollars']",['shit']
+"['fucking', 'barbarian', 'gooks', 'got', 'lot', 'nerve', 'mess', 'us']","['fucking', 'barbarian', 'gooks']"
+"['removed', 'reality', 'fucking', 'deed']",['fucking']
+"['think', 's', 'kind', 'shit', 'yeaaaars']",['shit']
+"['fuck', 'even', 'afghanistan', 'number']",['fuck']
+"['torture', 'give', 'shit']","['torture', 'shit']"
+"['good', 'damn', 'show', 'kicks', 'much', 'ass']","['damn', 'ass']"
+"['moron', 'would', 'think']",['moron']
+"['hey', 'man', 'keep', 'shit']",['shit']
+"['fucking', 'dumb', 'thing', 'say']","['fucking', 'dumb']"
+"['rubbish', 'support', 'crappy', 'encyclopedia', 's']","['rubbish', 'crappy']"
+"['gt', 'thats', 'really', 'sad', 'really', 'need', 'fuck', 'mind', 'business']",['fuck']
+"['people', 'making', 'moronic', 'jokes', 'right', 'edit']",['moronic']
+"['fuck', 'pussy', 'shitty', 'fucking', 'rules']","['fuck', 'pussy', 'shitty', 'fucking']"
+"['harper', 'needs', 'get', 'fuck', 'office']",['fuck']
+"['23', 'people', 'freak', 'fuck']","['freak', 'fuck']"
+"['hey', 'look', 'shit', 'vandalism']",['shit']
+"['ignorant', 'failure', 'isnt', 'qualified', 'public', 'office']","['ignorant', 'failure']"
+"['call', 'stupid', 'seems', 'page', 'moved', 'much', 'copied']",['stupid']
+"['awe', 'template', 'usage', 'true', 'fucking', 'hero', 'twinkle-queen']","['fucking', 'twinkle-queen']"
+"['stop', 'reverting', 'edits', 'cunt']",['cunt']
+"['even', 'tell', 'fuck', 'saying']",['fuck']
+"['fucking', 'cunt', 'person']","['fucking', 'cunt']"
+"['believe', ""n't"", 'fucking', 'clue', 're', 'talking', 'fatuorum']","['fucking', 'clue', 'fatuorum']"
+"['help', 'thinking', 'wanted', 'opinion', 'shit', 'could', 'ask']",['shit']
+"['else', 'could', 'become', 'bribery', 'legal', 'shit']","['bribery', 'shit']"
+"['guy', 'sick', 'fuck']","['sick', 'fuck']"
+"['fuck', 'ever']",['fuck']
+"['oh', ""n't"", 'think', 'going', 'get', 'less', 'stupid', 'time', 'soon']",['stupid']
+"['stop', 'vandalizing', 'wikipedia', 'jerk']","['vandalizing', 'jerk']"
+"['arrogant', 'unfortunately', 'im', 'hoping', 'stab', 'death', 'soon']","['arrogant', 'stab', 'death']"
+"['another', 'piece', 'useless', 'manufactured', 'junk']","['useless', 'junk']"
+"['ani', 'whiners', 'butt-hurt', 'comments', 'made']","['whiners', 'butt-hurt']"
+"['dont', 'cut', 'nose', 'spite', 'face']",['cut']
+"['re', 'fucking', 'worlds', 'leaders', 'bitch', 'll', 'get', 'speculation']","['fucking', 'bitch']"
+"['least', 'one', 'party', 'gives', 'crap', 'humans', 'birth']",['crap']
+"['parliament', 'lame', 'duck']","['lame', 'duck']"
+"['side', 'note', 'fuck', 'everything', 'us', 'make', 'called', 'joint']",['fuck']
+"['re', 'helpful', 'either', 'tiny-dick']",['tiny-dick']
+"['prove', 'comment', 'wrong', 'post', 'video', 'fucking', 'tough']",['fucking']
